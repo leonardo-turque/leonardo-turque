@@ -144,7 +144,7 @@ Na [Caedral](https://caedral.com) desenho e mantenho os SDKs oficiais da API da 
 
 <p>
   <a href="mailto:leonardo.turque@hotmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=58A6FF" alt="Email" /></a>
-  <a href="https://leonardoturque.me"><img src="https://img.shields.io/badge/Portf%C3%B3lio_leonardoturque.me-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfólio" /></a>
+  <a href="https://leonardoturque.me"><img src="https://img.shields.io/badge/Ideias_Pol%C3%ADticas_leonardoturque.me-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Site de ideias políticas" /></a>
   <a href="https://github.com/leonardo-turque"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
 </p>
 
