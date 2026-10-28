@@ -21,6 +21,8 @@ Meu caminho natural foi o **backend**. Gosto de pensar em como o serviço se com
 
 Não uso a idade como cartão de visita. O que importa é o código: contratos bem definidos, concorrência sob controle e decisões que fazem sentido quando o sistema sai do ambiente local.
 
+Hoje, na **[Caedral](https://caedral.com)**, construo os SDKs oficiais da plataforma — [TypeScript](https://github.com/trycaedral/caedral), [Go](https://github.com/trycaedral/caedral-go), [Python](https://github.com/trycaedral/caedral-python), [Java](https://github.com/trycaedral/caedral-java) e [C](https://github.com/trycaedral/caedral-c) — além do [bot oficial de Discord](https://github.com/trycaedral/discord-bot) e dos [nodes de n8n](https://github.com/trycaedral/n8n-nodes-caedral).
+
 ---
 
 ### O que me interessa
@@ -71,15 +73,15 @@ Projeto em nível de sistema. Em vez de uma API comum, o foco é entender recurs
 
 API de mensageria pensada para **muitas conexões ao mesmo tempo**. Go entra aqui pelo motivo certo: lidar com concorrência sem transformar o serviço num emaranhado de threads. O desafio é manter o fluxo responsivo quando o número de clientes sobe e uma conexão lenta não pode derrubar o resto.
 
-#### [Zennitex-Internal-API](https://github.com/leonardo-turque/Zennitex-Internal-API) · JavaScript
+#### [Clicars-Search](https://github.com/leonardo-turque/Clicars-Search) · Go + Next.js
 
-API interna voltada para **regras de negócio** e integração entre sistemas. Menos vitrine, mais utilidade real: rotas, validação, contratos entre serviços e um fluxo que outras partes da operação possam consumir sem fricção.
+Busca de empresas por nicho e localização com **scraper próprio do Google Maps** (Go + Chromium headless, sem API key) e dashboard em Next.js. Pipeline completo — CI, releases versionados e deploy — do scraper ao produto entregue.
 
 | Projeto | Linguagem | Foco |
 | --- | --- | --- |
 | [Acrux-OS](https://github.com/leonardo-turque/Acrux-OS) | Go | Sistema, recursos e runtime |
 | [Whatsapp-API](https://github.com/leonardo-turque/Whatsapp-API) | Go | Concorrência e conexões simultâneas |
-| [Zennitex-Internal-API](https://github.com/leonardo-turque/Zennitex-Internal-API) | JavaScript | Regras de negócio e integração |
+| [Clicars-Search](https://github.com/leonardo-turque/Clicars-Search) | Go · Next.js | Scraper do Google Maps, busca e prospecção |
 
 ---
 
