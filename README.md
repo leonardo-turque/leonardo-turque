@@ -1,117 +1,153 @@
 <div align="center">
-  <img src="https://github.com/leonardo-turque.png" width="120" height="120" style="border-radius: 50%;" alt="Leonardo Turque" />
 
-  <h1>Leonardo Turque</h1>
-  <p><strong>Backend Software Engineer</strong></p>
-  <p>Go · Java · Spring Boot</p>
+<a href="https://leonardoturque.me">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&color=0:0d1117,55:1f6feb,100:7c3aed&text=Leonardo%20Turque&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Backend%20Software%20Engineer&descSize=18&descAlignY=58&descColor=bfdbfe" alt="Leonardo Turque" width="100%" />
+</a>
 
-  <p>
-    <a href="mailto:leonardo.turque@hotmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/leonardo-turque"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&height=32&lines=APIs+de+alta+concorr%C3%AAncia+em+Go;Servi%C3%A7os+corporativos+em+Java+%2B+Spring+Boot;SDKs+oficiais+da+Caedral+em+5+linguagens;Infraestrutura+de+IA%3A+voz+e+infer%C3%AAncia+de+LLM" alt="frases" />
+
+<a href="https://github.com/leonardo-turque?tab=repositories"><img src="https://komarev.com/ghpvc/?username=leonardo-turque&style=flat-square&color=1f6feb&label=visitantes&abbreviated=true" alt="visitantes" /></a>
+
 </div>
 
 ---
 
-### Olá
+## ⚡ Sobre mim
 
-Meu nome é **Leonardo Turque**. Tenho **15 anos** e programo desde os **11**. São mais de **4 anos** construindo coisas de verdade — não só tutoriais, mas sistemas que precisam funcionar, falhar com clareza e voltar a responder.
+**Backend Software Engineer na [Caedral](https://caedral.com)**, construindo os SDKs oficiais da plataforma em **cinco linguagens** e a infraestrutura de integrações em volta deles.
 
-Meu caminho natural foi o **backend**. Gosto de pensar em como o serviço se comporta sob carga, como as APIs conversam entre si e onde a arquitetura começa a doer se você não cuidar dela cedo. Hoje meu dia a dia gira em torno de **Go**, **Java** e **Spring Boot**, com apoio de Python, TypeScript e JavaScript quando o problema pede.
-
-Não uso a idade como cartão de visita. O que importa é o código: contratos bem definidos, concorrência sob controle e decisões que fazem sentido quando o sistema sai do ambiente local.
-
-Hoje, na **[Caedral](https://caedral.com)**, construo os SDKs oficiais da plataforma — [TypeScript](https://github.com/trycaedral/caedral), [Go](https://github.com/trycaedral/caedral-go), [Python](https://github.com/trycaedral/caedral-python), [Java](https://github.com/trycaedral/caedral-java) e [C](https://github.com/trycaedral/caedral-c) — além do [bot oficial de Discord](https://github.com/trycaedral/discord-bot) e dos [nodes de n8n](https://github.com/trycaedral/n8n-nodes-caedral).
-
----
-
-### O que me interessa
-
-- Projetar e implementar **APIs RESTful** com contratos claros e erros previsíveis
-- Trabalhar com **concorrência** — especialmente em Go, onde goroutines e canais mudam o jeito de pensar no runtime
-- Montar serviços em **Java/Spring Boot** com estrutura limpa, camadas bem separadas e foco em manutenção
-- Explorar **sistemas distribuídos**, limites entre serviços e o custo real de transformar um monólito em microserviços
-- Usar **Docker**, **Linux** e bancos relacionais no caminho entre “roda na minha máquina” e algo mais próximo de produção
+- 🔭 **SDKs oficiais da Caedral** — [TypeScript](https://github.com/trycaedral/caedral) · [Go](https://github.com/trycaedral/caedral-go) · [Python](https://github.com/trycaedral/caedral-python) · [Java](https://github.com/trycaedral/caedral-java) · [C](https://github.com/trycaedral/caedral-c)
+- 🌐 **APIs de alta concorrência** em Go — mensageria multi-instância, filas inteligentes e clientes que não degradam sob carga
+- ☕ **Serviços corporativos** em Java + Spring Boot — painéis multi-tenant, autenticação JWT, JPA e integrações entre sistemas
+- 🤖 **IA em produção** — assistentes de voz, inferência de LLM e automação de fluxos com n8n
+- ⚙️ **Mentalidade de produção** — timeout, retry, erro tipado, observabilidade e contratos versionados desde o primeiro commit
 
 ---
 
-### Stack
+## 🔷 Caedral
 
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-111111?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-</p>
-
-**Linguagens de apoio**
-<p>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-</p>
-
-**Infra e ferramentas**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### Projetos
-
-Alguns trabalhos que mostram o tipo de problema que gosto de resolver:
-
-#### [Acrux-OS](https://github.com/leonardo-turque/Acrux-OS) · Go
-
-Projeto em nível de sistema. Em vez de uma API comum, o foco é entender recursos, concorrência e como o runtime se organiza mais perto da máquina. É o tipo de trabalho que força a pensar em ownership, isolamento e estrutura — e não só em endpoints.
-
-#### [Whatsapp-API](https://github.com/leonardo-turque/Whatsapp-API) · Go
-
-API de mensageria pensada para **muitas conexões ao mesmo tempo**. Go entra aqui pelo motivo certo: lidar com concorrência sem transformar o serviço num emaranhado de threads. O desafio é manter o fluxo responsivo quando o número de clientes sobe e uma conexão lenta não pode derrubar o resto.
-
-#### [Clicars-Search](https://github.com/leonardo-turque/Clicars-Search) · Go + Next.js
-
-Busca de empresas por nicho e localização com **scraper próprio do Google Maps** (Go + Chromium headless, sem API key) e dashboard em Next.js. Pipeline completo — CI, releases versionados e deploy — do scraper ao produto entregue.
-
-| Projeto | Linguagem | Foco |
-| --- | --- | --- |
-| [Acrux-OS](https://github.com/leonardo-turque/Acrux-OS) | Go | Sistema, recursos e runtime |
-| [Whatsapp-API](https://github.com/leonardo-turque/Whatsapp-API) | Go | Concorrência e conexões simultâneas |
-| [Clicars-Search](https://github.com/leonardo-turque/Clicars-Search) | Go · Next.js | Scraper do Google Maps, busca e prospecção |
-
----
-
-### Como eu trabalho
-
-- Prefiro código legível a código “inteligente demais”
-- Penso em falha desde o começo: timeout, retry, erro tipado, limite de carga
-- Escolho a ferramenta pelo problema — Go quando concorrência e leveza importam; Java/Spring quando a estrutura corporativa e o ecossistema fazem diferença
-- Gosto de aprender pelo sistema real: ver onde dói, medir, ajustar, documentar o que ficou claro no caminho
-
----
-
-### GitHub
+Na [Caedral](https://caedral.com) desenho e mantenho os SDKs oficiais da API da plataforma: contratos consistentes, CI e publicação versionada em cada linguagem, além do ecossistema de integrações.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leonardo-turque&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=8b949e&text_color=c9d1d9&hide_rank=true" alt="Stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonardo-turque&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9" alt="Languages" />
+  <a href="https://github.com/trycaedral/caedral"><img src="https://img.shields.io/badge/SDK_TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="SDK TypeScript" /></a>
+  <a href="https://github.com/trycaedral/caedral-go"><img src="https://img.shields.io/badge/SDK_Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="SDK Go" /></a>
+  <a href="https://github.com/trycaedral/caedral-python"><img src="https://img.shields.io/badge/SDK_Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="SDK Python" /></a>
+  <a href="https://github.com/trycaedral/caedral-java"><img src="https://img.shields.io/badge/SDK_Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=f89820" alt="SDK Java" /></a>
+  <a href="https://github.com/trycaedral/caedral-c"><img src="https://img.shields.io/badge/SDK_C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="SDK C" /></a>
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=leonardo-turque&theme=dark&hide_border=true&background=00000000" alt="Streak" />
+  <a href="https://github.com/trycaedral/discord-bot"><img src="https://img.shields.io/badge/Discord_Bot-0D1117?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord Bot" /></a>
+  <a href="https://github.com/trycaedral/n8n-nodes-caedral"><img src="https://img.shields.io/badge/n8n_Nodes-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n Nodes" /></a>
+  <a href="https://github.com/trycaedral/llama.cpp"><img src="https://img.shields.io/badge/LLM_Inference_C%2FC%2B%2B-0D1117?style=flat-square&logo=c&logoColor=A8B9CC" alt="LLM Inference" /></a>
 </p>
 
 ---
 
-### Contato
+## 🚀 Destaques
 
-Se quiser falar sobre backend, arquitetura, Go, Java ou alguma ideia de projeto:
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/trycaedral/caedral">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=trycaedral&repo=caedral&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Caedral SDK" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/leonardo-turque/Clicars-Search">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardo-turque&repo=Clicars-Search&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Clicars Search" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-- **Email:** [leonardo.turque@hotmail.com](mailto:leonardo.turque@hotmail.com)
-- **GitHub:** [github.com/leonardo-turque](https://github.com/leonardo-turque)
+---
 
-Estou aberto a conversas técnicas e oportunidades de colaboração.
+## 🛠️ Stack
+
+**Linguagens**
+
+<p>
+  <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=f89820" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+</p>
+
+**Frameworks e backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+</p>
+
+**Dados e infraestrutura**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+</p>
+
+**IA e automação**
+
+<p>
+  <img src="https://img.shields.io/badge/LLM_Inference-0D1117?style=for-the-badge" alt="LLM Inference" />
+  <img src="https://img.shields.io/badge/Voice_AI-0D1117?style=for-the-badge" alt="Voice AI" />
+  <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
+  <img src="https://img.shields.io/badge/Web_Scraping-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Web Scraping" />
+</p>
+
+---
+
+## 📊 GitHub em números
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=leonardo-turque&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Estatísticas" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-turque&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=leonardo-turque&hide_border=true&background=00000000&border=30363D&stroke=30363D&ring=1F6FEB&fire=F97316&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=FFFFFF&dates=8B949E&locale=pt_BR" alt="Streak de contribuições" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardo-turque&hide_border=true&bg_color=00000000&color=C9D1D9&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB55" alt="Gráfico de atividade" width="100%" />
+</p>
+
+---
+
+## 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardo-turque/leonardo-turque/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardo-turque/leonardo-turque/output/github-contribution-grid-snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/leonardo-turque/leonardo-turque/output/github-contribution-grid-snake.svg" alt="Snake do grafo de contribuições" width="100%" />
+</picture>
+
+---
+
+## 📬 Contato
+
+<p>
+  <a href="mailto:leonardo.turque@hotmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=58A6FF" alt="Email" /></a>
+  <a href="https://leonardoturque.me"><img src="https://img.shields.io/badge/Portf%C3%B3lio_leonardoturque.me-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfólio" /></a>
+  <a href="https://github.com/leonardo-turque"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:7c3aed,45:1f6feb,100:0d1117" alt="" width="100%" />
+</div>
