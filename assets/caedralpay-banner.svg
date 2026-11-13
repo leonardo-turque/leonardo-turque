@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Leonardo Turque — Construindo o futuro dos pagamentos</title>
+  <desc id="desc">Banner em tons escuros com detalhes luminosos e formas geométricas.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d26"/><stop offset=".55" stop-color="#0b1219"/><stop offset="1" stop-color="#1d2928"/></linearGradient>
+    <linearGradient id="accent" x2="1" y2="1"><stop stop-color="#b4e0cb"/><stop offset="1" stop-color="#6eaaa2"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#77c5ac" stop-opacity=".23"/><stop offset="1" stop-color="#77c5ac" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#d3f5e8" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="965" cy="180" r="230" fill="url(#glow)"/>
+  <circle cx="970" cy="180" r="123" fill="none" stroke="#b4e0cb" stroke-opacity=".17"/>
+  <circle cx="970" cy="180" r="88" fill="none" stroke="#b4e0cb" stroke-opacity=".25"/>
+  <path d="M970 91l77 44v90l-77 44-77-44v-90z" fill="none" stroke="url(#accent)" stroke-width="2"/>
+  <path d="M970 113l57 33v68l-57 33-57-33v-68z" fill="#b4e0cb" fill-opacity=".06" stroke="#b4e0cb" stroke-opacity=".4"/>
+  <path d="M941 180h58M970 151v58" stroke="#c7f0df" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="1047" cy="135" r="4" fill="#b4e0cb"/><circle cx="893" cy="225" r="4" fill="#b4e0cb"/>
+  <text x="74" y="83" fill="#a9d8c5" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="4">LEONARDO TURQUE  /  CAEDRALPAY</text>
+  <text x="70" y="151" fill="#f4f7f5" font-family="Arial, sans-serif" font-size="48" font-weight="700">Tecnologia que</text>
+  <text x="70" y="211" fill="#f4f7f5" font-family="Arial, sans-serif" font-size="48" font-weight="700">move autonomia.</text>
+  <text x="74" y="265" fill="#aebfba" font-family="Arial, sans-serif" font-size="19">Produto, engenharia e pagamentos digitais.</text>
+  <rect x="74" y="296" width="64" height="3" rx="1.5" fill="#9acfb9"/>
+</svg>

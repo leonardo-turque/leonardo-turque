@@ -1,60 +1,82 @@
 <div align="center">
 
-# Leonardo Turque
+<img src="assets/caedralpay-banner.svg" alt="Leonardo Turque e CaedralPay — tecnologia que move autonomia" width="100%" />
 
-**Construindo tecnologia para dar às pessoas mais controle sobre seu dinheiro.**
+<br />
 
-Empreendedor · Engenharia de software · CaedralPay
+**Empreendedor &nbsp;·&nbsp; Engenharia de software &nbsp;·&nbsp; CaedralPay**
 
-[![CaedralPay](https://img.shields.io/badge/CaedralPay-conhe%C3%A7a%20a%20empresa-171717?style=for-the-badge)](https://caedral.com)
-[![Contato](https://img.shields.io/badge/Contato-enviar%20e--mail-171717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.turque@hotmail.com)
+<a href="https://caedral.com"><img src="https://img.shields.io/badge/CAEDRALPAY-CONHECER%20A%20EMPRESA-203C35?style=for-the-badge&logo=googlechrome&logoColor=C7F0DF" alt="Conheça a CaedralPay" /></a>
+<a href="mailto:leonardo.turque@hotmail.com"><img src="https://img.shields.io/badge/CONTATO-ENVIE%20UM%20EMAIL-203C35?style=for-the-badge&logo=maildotru&logoColor=C7F0DF" alt="Enviar e-mail" /></a>
 
 </div>
 
-<br>
+<br />
 
-## Tecnologia com propósito
+## Olá, eu sou Leonardo. 👋
 
-Sou Leonardo Turque, empreendedor e desenvolvedor de software. Meu foco está na **CaedralPay**: construir produtos financeiros que unam autonomia, clareza e uma experiência bem pensada.
+Construo produtos e sistemas com uma ideia em mente: tecnologia financeira deve ser **acessível, clara e dar mais autonomia às pessoas**. Meu foco está na **CaedralPay**, conectando visão de produto, design e engenharia para transformar essa ideia em experiências reais.
 
-Acredito que uma boa tecnologia deve ser compreensível para quem a usa e sólida em sua construção. Por isso, dedico meu trabalho a produto, arquitetura e desenvolvimento de sistemas, com atenção aos detalhes que fazem a diferença no dia a dia.
+## ✦ CaedralPay
 
-## CaedralPay
+<div align="center">
+  <a href="https://caedral.com"><img src="https://caedral.com/img/caedralpay-social-v1.png" alt="CaedralPay — seu gateway cripto" width="100%" /></a>
+</div>
 
-**Autocustódia. Clareza. Precisão.**
+A **CaedralPay** trabalha para aproximar pagamentos digitais e autocustódia de quem precisa de uma experiência simples. A plataforma apresenta soluções para receber pagamentos em stablecoins diretamente em uma carteira e integrar pagamentos por API.
 
-A CaedralPay Wallet é uma carteira Android de autocustódia em desenvolvimento, criada para que o usuário mantenha o controle das próprias chaves. O aplicativo combina uma interface nativa com proteção local das credenciais e uma experiência orientada à simplicidade.
+A **CaedralPay Wallet** é uma carteira Android de autocustódia em desenvolvimento. Com uma interface nativa e proteção local das credenciais, ela foi pensada para que o usuário mantenha o controle das próprias chaves.
 
-- **Autonomia:** criação e recuperação de carteiras com as chaves sob controle do usuário.
-- **Experiência nativa:** interface Android construída com Kotlin e Jetpack Compose.
-- **Engenharia cuidadosa:** autenticação, proteção local e assinatura de transações no dispositivo.
-- **Evolução contínua:** a carteira está em fase beta, com funcionalidades e melhorias em desenvolvimento.
+| Autonomia | Experiência | Engenharia |
+| :--- | :--- | :--- |
+| Controle das próprias chaves | Interface Android nativa | Proteção local e assinatura no dispositivo |
 
-[Conheça a CaedralPay](https://caedral.com) · [CaedralPay Wallet](https://github.com/leonardo-turque/caedralpay-wallet) · [Download oficial](https://download.caedral.com)
+> A Wallet está em fase beta e segue em desenvolvimento.
 
-## Como construo
+<div align="center">
 
-Meu trabalho conecta visão de produto e engenharia: experiências simples na superfície, sustentadas por sistemas organizados, interfaces claras e decisões técnicas conscientes.
+[![Site](https://img.shields.io/badge/EXPLORAR-CAEDRALPAY-203C35?style=for-the-badge&logo=googlechrome&logoColor=C7F0DF)](https://caedral.com)
+[![Wallet](https://img.shields.io/badge/ANDROID-CAEDRALPAY%20WALLET-203C35?style=for-the-badge&logo=android&logoColor=C7F0DF)](https://github.com/leonardo-turque/caedralpay-wallet)
+[![Download](https://img.shields.io/badge/DOWNLOAD-OFICIAL-203C35?style=for-the-badge&logo=download&logoColor=C7F0DF)](https://download.caedral.com)
 
-- **Produto:** experiências intuitivas e foco nas necessidades reais das pessoas.
-- **Engenharia:** APIs, arquitetura de backend e aplicações nativas.
-- **Fundamentos:** segurança, manutenção e evolução responsável.
+</div>
+
+## ⚙️ Tecnologias & ferramentas
+
+Tecnologias que uso para construir interfaces, serviços e produtos digitais.
+
+**Mobile & produto**
 
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-171717?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-171717?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Go-171717?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-171717?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-171717?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-171717?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kotlin-181D24?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-181D24?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Android-181D24?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android" />
+</p>
+
+**Backend & desenvolvimento**
+
+<p>
+  <img src="https://img.shields.io/badge/Go-181D24?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Java-181D24?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-181D24?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/TypeScript-181D24?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-181D24?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+</p>
+
+**Dados & infraestrutura**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-181D24?style=for-the-badge&logo=postgresql&logoColor=65A9D7" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-181D24?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-181D24?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-181D24?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
 ---
 
 <div align="center">
 
-**Vamos construir algo relevante.**
+**Construindo com propósito, pensando no futuro.**
 
 [CaedralPay](https://caedral.com) &nbsp;·&nbsp; [GitHub](https://github.com/leonardo-turque) &nbsp;·&nbsp; [E-mail](mailto:leonardo.turque@hotmail.com)
 
